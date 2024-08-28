@@ -1,0 +1,12 @@
+This app is going to be a note-taking app designed with TTRPGs (or maybe just my Smolder campaign) in mind. I'm going to take the input of my TTRPG-playing friends, as well as my coding friends, and will hopefully come out of this with a solid app that is both useful and looks good in my future portfolio.
+
+Planned Features:
+    Campaign Notebooks (Campaign Separator)
+    "Players" Section
+    "NPCs" Section
+    "Locations" Section
+    "Factions" Section
+    Linking
+
+User Process:
+    Open program. Presented with option for creating a new campaign. After inputting info for campaign, see tabs for Characters, Locations, etc. with options to add to any. When creating new session log, automatically timestamp and increment number.
